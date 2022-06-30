@@ -1,0 +1,16 @@
+Cucumber frame work / BDD Framework- Behaviour driven development framework
+
+The main components in cucumber framework
+
+1. Feature Files(Scenario / Scenario outlines ) ---src/test/resources
+2. Step Definition.java Files ---------------------src/test/java
+3. Test Runner .java File -------------------------src/test/java
+
+
+1.Feature Files(Scenario) --Set of steps by using keywords as
+Given,When,Then,And,But
+
+2.Step Definition.java Files
+for every keyword , we are implementing step defintions or correspodning method implemented
+
+3.Test RUnner.java ------>To execute your test scenarios

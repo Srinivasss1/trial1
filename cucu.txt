@@ -1,0 +1,10 @@
+
+The main components framework
+
+1. Feature File ( Scenario and Scenario outline)
+2. Step Definition.java
+3. Test Runner.java (@Cucumber Options)
+
+Back ground Key Section
+Hooks
+Data tables
